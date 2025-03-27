@@ -12,7 +12,7 @@ Styled using StyleSheet for improved design and layout.
 
 Code Overview
 
-App.tsx
+1.App.tsx
 
 Displays the main app structure.
 
@@ -20,13 +20,13 @@ Contains a list of sample tasks.
 
 Uses the Task component to render each task item.
 
-Task.js
+2.Task.js
 
 A reusable component that represents individual tasks.
 
 Each task includes a checkbox-like square and a circular design element for improved UI.
 
-Figma Design Link
+3.Figma Design Link : https://www.figma.com/design/oPpn8jTRerMeb8A8Gptj6v/Work_Place?node-id=165-82&t=s3UhWfl5MQURDCq0-1
 
 The design reference for this application can be found in the following Figma file:
 Work_Place Figma Design
